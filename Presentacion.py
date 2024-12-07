@@ -1,0 +1,7 @@
+print('Mi nombre es Angela')
+print('Mi color favorito es el rojo')
+print('Me gustan los gatos  negros')
+print('No me gusta los sandwiches')
+print('Me gusta hacer ejercicio')
+print('No me agradan los perros')
+print('No me agradan los peces')
